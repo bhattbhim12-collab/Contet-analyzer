@@ -1,0 +1,5 @@
+{
+  "name": "Content Analyzer",
+  "description": "An application to analyze content using AI. This initial version sets up the basic structure and styling without any functionality.",
+  "requestFramePermissions": []
+}
